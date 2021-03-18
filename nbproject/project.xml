@@ -11,7 +11,7 @@
                 <dependency dependsOn="jar" target="profile"/>
                 <dependency dependsOn="jar" target="run"/>
             </extension>
-        </buildExtensions>
+        </buildExtensions> asd asd asd as dasd asd ad ads
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
             <name>CubeSystem3D</name>
             <source-roots>

@@ -10,7 +10,7 @@ backed up to jfx-impl_backup.xml and then updated to the currently supported sta
 FX Project build script auto-update may be triggered on project open either after
 NetBeans installation update or by manual changes in jfx-impl.xml. Please note that
 changing jfx-impl.xml manually is not recommended. Any build customization code should
-be placed only in build.xml in project root directory.
+be placed only in build.xml in project root directory.asd das dsa asd asd ad as
 
 Remark: The auto-update mechanism can be disabled by setting property
 javafx.disable.autoupdate=true
